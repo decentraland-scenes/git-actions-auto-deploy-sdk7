@@ -50,4 +50,8 @@
 		"ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE"
 	],
 	"featureToggles": {}
+	,
+	"worldConfiguration" : {
+    	"name": "caine.dcl.eth"
+	}
 }
